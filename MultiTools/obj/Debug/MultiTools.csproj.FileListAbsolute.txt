@@ -1,0 +1,15 @@
+C:\Users\steven\source\repos\MultiTools\MultiTools\bin\Debug\MultiTools.exe.config
+C:\Users\steven\source\repos\MultiTools\MultiTools\bin\Debug\MultiTools.exe
+C:\Users\steven\source\repos\MultiTools\MultiTools\bin\Debug\MultiTools.pdb
+C:\Users\steven\source\repos\MultiTools\MultiTools\obj\Debug\MultiTools.csproj.AssemblyReference.cache
+C:\Users\steven\source\repos\MultiTools\MultiTools\obj\Debug\MultiTools.Form1.resources
+C:\Users\steven\source\repos\MultiTools\MultiTools\obj\Debug\MultiTools.Properties.Resources.resources
+C:\Users\steven\source\repos\MultiTools\MultiTools\obj\Debug\MultiTools.csproj.GenerateResource.cache
+C:\Users\steven\source\repos\MultiTools\MultiTools\obj\Debug\MultiTools.csproj.CoreCompileInputs.cache
+C:\Users\steven\source\repos\MultiTools\MultiTools\obj\Debug\MultiTools.exe
+C:\Users\steven\source\repos\MultiTools\MultiTools\obj\Debug\MultiTools.pdb
+C:\Users\steven\source\repos\MultiTools\MultiTools\obj\Debug\MultiTools.csproj.CopyComplete
+C:\Users\steven\source\repos\MultiTools\MultiTools\obj\Debug\MultiTools.Formularios.Splash_Screen.resources
+C:\Users\steven\source\repos\MultiTools\MultiTools\obj\Debug\MultiTools.Formularios.Login.resources
+C:\Users\steven\source\repos\MultiTools\MultiTools\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\steven\source\repos\MultiTools\MultiTools\obj\Debug\MultiTools.csproj.Fody.CopyLocal.cache
